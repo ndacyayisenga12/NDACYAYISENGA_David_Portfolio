@@ -47,7 +47,7 @@ const Hero = () => {
 
             <div className="flex gap-6 justify-center lg:justify-start">
               <a
-                href="https://github.com"
+                href="https://github.com/ndacyayisenga12"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-white shadow-md hover:shadow-lg hover:scale-110 transition-all duration-200 text-gray-700 hover:text-blue-600"
@@ -55,7 +55,7 @@ const Hero = () => {
                 <Github size={24} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="www.linkedin.com/in/ndacyayisenga-david-79b8b0377"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-white shadow-md hover:shadow-lg hover:scale-110 transition-all duration-200 text-gray-700 hover:text-blue-600"
@@ -63,7 +63,7 @@ const Hero = () => {
                 <Linkedin size={24} />
               </a>
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:ndacyayisengadavid74@gmail.com"
                 className="p-3 rounded-full bg-white shadow-md hover:shadow-lg hover:scale-110 transition-all duration-200 text-gray-700 hover:text-blue-600"
               >
                 <Mail size={24} />
