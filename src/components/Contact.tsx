@@ -44,19 +44,19 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'your.email@example.com',
-      link: 'mailto:your.email@example.com',
+      value: 'ndacyayisengadavid74@gmail.com',
+      link: 'mailto:ndacyayisengadavid74@gmail.com',
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567',
+      value: '+250796006659',
+      link: 'tel:+250796006659',
     },
     {
       icon: MapPin,
       title: 'Location',
-      value: 'San Francisco, CA',
+      value: 'Kigali-RWANDA',
       link: null,
     },
   ];
