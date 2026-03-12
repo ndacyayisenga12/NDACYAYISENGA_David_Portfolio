@@ -4,10 +4,10 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: Github, url: 'https://github.com', label: 'GitHub' },
-    { icon: Linkedin, url: 'https://linkedin.com', label: 'LinkedIn' },
-    { icon: Twitter, url: 'https://twitter.com', label: 'Twitter' },
-    { icon: Mail, url: 'mailto:your.email@example.com', label: 'Email' },
+    { icon: Github, url: 'https://github.com/ndacyayisenga12', label: 'GitHub' },
+    { icon: Linkedin, url: 'www.linkedin.com/in/ndacyayisenga-david-79b8b0377', label: 'LinkedIn' },
+    { icon: Twitter, url: 'https://x.com/NDACYAYISENGADA', label: 'Twitter' },
+    { icon: Mail, url: 'mailto:ndacyayisengadavid74@gmail.com', label: 'Email' },
   ];
 
   const quickLinks = [
@@ -73,15 +73,15 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Get In Touch</h4>
             <div className="space-y-3 text-gray-400">
-              <p>San Francisco, CA</p>
+              <p>Kigali-RWANDA</p>
               <p>
-                <a href="mailto:your.email@example.com" className="hover:text-teal-400 transition-colors">
-                  your.email@example.com
+                <a href="mailto:ndacyayisengadavid74@gmail.com" className="hover:text-teal-400 transition-colors">
+                  ndacyayisengadavid74@gmail.com
                 </a>
               </p>
               <p>
-                <a href="tel:+15551234567" className="hover:text-teal-400 transition-colors">
-                  +1 (555) 123-4567
+                <a href="tel:+250796006659" className="hover:text-teal-400 transition-colors">
+                  +250796006659
                 </a>
               </p>
             </div>
@@ -94,7 +94,7 @@ const Footer = () => {
               &copy; {currentYear} Portfolio. All rights reserved.
             </p>
             <p className="flex items-center gap-1">
-              Made with <Heart size={16} className="text-red-500 fill-current" /> by Your Name
+              Made with <Heart size={16} className="text-red-500 fill-current" /> by David NDACYAYISENGA
             </p>
           </div>
         </div>
