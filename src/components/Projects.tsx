@@ -13,10 +13,10 @@ const Projects = () => {
     {
       title: 'Task Management App',
       description: 'Collaborative project management tool with real-time updates, team features, and analytics dashboard. Supports drag-and-drop functionality.',
-      image: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://taskmanager-twby--3000--3b7d1e54.local-credentialless.webcontainer.io/',
       tags: ['TypeScript', 'Next.js', 'Supabase', 'Tailwind'],
       github: 'https://github.com',
-      demo: 'https://example.com',
+      demo: 'https://github.com/ndacyayisenga12/TASK-MANAGER.git',
     },
     {
       title: 'Weather Dashboard',
